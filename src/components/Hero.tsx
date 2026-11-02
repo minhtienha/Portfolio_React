@@ -20,7 +20,7 @@ export default function Hero() {
             {/* Hàng nút mạng xã hội & CV */}
             <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 font-mono text-base font-semibold uppercase">
               <a
-                href="/Ha-Minh-Tien-FullStack-Fresher.pdf"
+                href="/CV - HA MINH TIEN.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="group inline-flex items-center gap-1 border-b border-zinc-900 pb-0.5 text-zinc-900 hover:text-blue-600 dark:border-white dark:text-white dark:hover:text-blue-400"
